@@ -1,4 +1,7 @@
 # Day 31 - Flash Card App Capstone Project
+
+Built a language learning Flash Card App Capstone Project with Tkinter and Pandas. A project that translates frequently spoken English computer science words to Portuguese.
+
 ## Concepts Practised
 - Create the User Interface (UI) with Tkinter
 - Create New Flash Cards
